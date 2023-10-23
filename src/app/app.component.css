@@ -1,0 +1,135 @@
+.profile-image{
+    border-radius: 50%;
+    margin-right: 30px;
+    flex-shrink: 0;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.header{
+    display: flex; 
+    align-items: center; 
+    padding: 30px 75px;
+    background: #f5f5f5;
+    border-top: 10px solid #778492;
+}
+
+.float-right {
+   float: right;
+}
+
+.ct {
+    margin-left: auto;
+}
+
+
+.linkedin-icon{
+    font-size: 40px;
+    color: black;  
+    margin-right: 10px;
+}
+
+.github-icon{
+    font-size: 40px;
+    color: black;    
+    margin-right: 10px;
+}
+
+.email-icon{
+    font-size: 40px;
+    color: black;
+    position: relative;
+    bottom: 1.5px;
+}
+
+.social{
+    margin-top: 20px;
+}
+
+.body{
+    background: #DAE3E7;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.section{
+    background: white;
+    padding: 20px;
+    margin: 20px 0px;
+}
+
+.item-title{
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #778492;
+}
+
+.item-subtitle{
+    color: #999;
+    font-weight: normal;
+    /* margin-bottom: 10px; */
+}
+
+.item-body{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.body-margin{
+    margin: 10px 20px;
+}
+
+.box {
+    width: fit-content;
+    padding: 4px 10px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.bg-primary{
+    background-color: #DAE3E7 !important;
+}
+
+.bg-secondary{
+    background-color: #D9D9D6!important;
+} 
+
+.bg-success{
+    background: #9FE2BF !important;
+} 
+
+.bg-danger{
+    background-color: #FF7276!important;
+} 
+
+.bg-warning{
+    background-color: #F1EB9C!important;
+}
+
+.bg-info{
+    background-color: #A4DBE8!important;
+}
+
+.bg-dark{
+    background-color: #737373!important;
+}
+
+.content{
+    margin: 20px 0px;
+}
+.divider{
+    margin:30px 0;
+}
+.desc{
+    font-size: 24px;
+}
