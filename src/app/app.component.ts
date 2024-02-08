@@ -7,26 +7,29 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   technologies: string[] = [
-    'Python',
     'Java',
+    'Python',
     'C/C++',
-    'MySQL',
-    'JavaScript',
-    'TypeScript',
     'HTML',
     'CSS',
+    'JavaScript',
+    'TypeScript',
+    'MySQL', 
+    'Oracle',
+    'MongoDB',
     'Angular',
     'React',
+    'React Native',
     'Bootstrap',
+    'Spring Boot',
+    'REST APIs',
     'AppDynamics',
     'Splunk',
     'Tensorflow',
-    'Keras',
     'NLTK',
     'pandas',
     'NumPy',
     'Matplotlib',
-    'Spring Boot',
     'scikit-learn'
   ];
 
